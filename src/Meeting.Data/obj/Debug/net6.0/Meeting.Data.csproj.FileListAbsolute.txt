@@ -1,0 +1,12 @@
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting.Data\bin\Debug\net6.0\Meeting.Data.deps.json
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting.Data\bin\Debug\net6.0\Meeting.Data.dll
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting.Data\bin\Debug\net6.0\Meeting.Data.pdb
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting.Data\obj\Debug\net6.0\Meeting.Data.csproj.AssemblyReference.cache
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting.Data\obj\Debug\net6.0\Meeting.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting.Data\obj\Debug\net6.0\Meeting.Data.AssemblyInfoInputs.cache
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting.Data\obj\Debug\net6.0\Meeting.Data.AssemblyInfo.cs
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting.Data\obj\Debug\net6.0\Meeting.Data.csproj.CoreCompileInputs.cache
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting.Data\obj\Debug\net6.0\Meeting.Data.dll
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting.Data\obj\Debug\net6.0\refint\Meeting.Data.dll
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting.Data\obj\Debug\net6.0\Meeting.Data.pdb
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting.Data\obj\Debug\net6.0\ref\Meeting.Data.dll

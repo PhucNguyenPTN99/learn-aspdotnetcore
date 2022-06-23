@@ -1,0 +1,14 @@
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting_DAL\obj\Debug\net6.0\Meeting_DAL.csproj.AssemblyReference.cache
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting_DAL\obj\Debug\net6.0\Meeting_DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting_DAL\obj\Debug\net6.0\Meeting_DAL.AssemblyInfoInputs.cache
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting_DAL\obj\Debug\net6.0\Meeting_DAL.AssemblyInfo.cs
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting_DAL\obj\Debug\net6.0\Meeting_DAL.csproj.CoreCompileInputs.cache
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting_DAL\bin\Debug\net6.0\Meeting_DAL.deps.json
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting_DAL\bin\Debug\net6.0\Meeting_DAL.runtimeconfig.json
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting_DAL\bin\Debug\net6.0\Meeting_DAL.dll
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting_DAL\bin\Debug\net6.0\Meeting_DAL.pdb
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting_DAL\obj\Debug\net6.0\Meeting_DAL.dll
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting_DAL\obj\Debug\net6.0\refint\Meeting_DAL.dll
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting_DAL\obj\Debug\net6.0\Meeting_DAL.pdb
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting_DAL\obj\Debug\net6.0\Meeting_DAL.genruntimeconfig.cache
+D:\learn\aspnetcore\final-project\learn-aspdotnetcore\src\Meeting_DAL\obj\Debug\net6.0\ref\Meeting_DAL.dll
