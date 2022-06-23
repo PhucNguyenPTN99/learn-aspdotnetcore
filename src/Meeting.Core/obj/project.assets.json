@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\learn\\aspnetcore\\final-project\\Meeting\\Meeting.Core\\Meeting.Core.csproj",
+      "projectUniqueName": "D:\\learn\\aspnetcore\\final-project\\learn-aspdotnetcore\\src\\Meeting.Core\\Meeting.Core.csproj",
       "projectName": "Meeting.Core",
-      "projectPath": "D:\\learn\\aspnetcore\\final-project\\Meeting\\Meeting.Core\\Meeting.Core.csproj",
+      "projectPath": "D:\\learn\\aspnetcore\\final-project\\learn-aspdotnetcore\\src\\Meeting.Core\\Meeting.Core.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "D:\\learn\\aspnetcore\\final-project\\Meeting\\Meeting.Core\\obj\\",
+      "outputPath": "D:\\learn\\aspnetcore\\final-project\\learn-aspdotnetcore\\src\\Meeting.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",

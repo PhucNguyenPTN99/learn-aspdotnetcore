@@ -1,5 +1,6 @@
 ﻿using Meeting.Core.Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace Meeting.Infrastructure.Persistence.Configurations
@@ -14,7 +15,8 @@ namespace Meeting.Infrastructure.Persistence.Configurations
                 .Property(entity => entity.ClusteredKey)
                 .HasColumnName("clustered_key")
                 .IsRequired()
-                .ValueGeneratedOnAdd();
+                .ValueGeneratedOnAdd()
+                .Metadata.SetAfterSaveBehavior(PropertySaveBehavior.Ignore);
 
             builder
                 .HasIndex(entity => entity.ClusteredKey)

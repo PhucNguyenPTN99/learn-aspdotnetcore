@@ -9784,11 +9784,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\learn\\aspnetcore\\final-project\\Meeting\\Meeting.Api\\Meeting.Api.csproj",
+      "projectUniqueName": "D:\\learn\\aspnetcore\\final-project\\learn-aspdotnetcore\\src\\Meeting.Api\\Meeting.Api.csproj",
       "projectName": "Meeting.Api",
-      "projectPath": "D:\\learn\\aspnetcore\\final-project\\Meeting\\Meeting.Api\\Meeting.Api.csproj",
+      "projectPath": "D:\\learn\\aspnetcore\\final-project\\learn-aspdotnetcore\\src\\Meeting.Api\\Meeting.Api.csproj",
       "packagesPath": "C:\\Users\\MSI\\.nuget\\packages\\",
-      "outputPath": "D:\\learn\\aspnetcore\\final-project\\Meeting\\Meeting.Api\\obj\\",
+      "outputPath": "D:\\learn\\aspnetcore\\final-project\\learn-aspdotnetcore\\src\\Meeting.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MSI\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9805,8 +9805,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\learn\\aspnetcore\\final-project\\Meeting\\Meeting.Infrastructure\\Meeting.Infrastructure.csproj": {
-              "projectPath": "D:\\learn\\aspnetcore\\final-project\\Meeting\\Meeting.Infrastructure\\Meeting.Infrastructure.csproj"
+            "D:\\learn\\aspnetcore\\final-project\\learn-aspdotnetcore\\src\\Meeting.Infrastructure\\Meeting.Infrastructure.csproj": {
+              "projectPath": "D:\\learn\\aspnetcore\\final-project\\learn-aspdotnetcore\\src\\Meeting.Infrastructure\\Meeting.Infrastructure.csproj"
             }
           }
         }
